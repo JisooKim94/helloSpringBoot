@@ -1,0 +1,10 @@
+insert into productTable(name, category, price, manufacturer, unitInStock, description) values("삼성 노트북7", "notebook", 1000000, "삼성전자", 100, "최신 노트북");
+insert into productTable(name, category, price, manufacturer, unitInStock, description) values("LG GRAM", "notebook", 800000, "LG전자", 150, "경량 노트북");
+insert into productTable(name, category, price, manufacturer, unitInStock, description) values("Macbook Air", "notebook", 1320000, "Apple", 50, "보급 맥북");
+insert into productTable(name, category, price, manufacturer, unitInStock, description) values("Macbook Pro", "notebook", 3200000, "Apple", 10, "고급 맥북");
+insert into productTable(name, category, price, manufacturer, unitInStock, description) values("Ultra Boost", "shoes", 150000, "아디다스", 500, "최신 런닝화");
+insert into productTable(name, category, price, manufacturer, unitInStock, description) values("Yeezy Boost", "shoes", 160000, "나이키", 100, "최신 런닝화");
+insert into productTable(name, category, price, manufacturer, unitInStock, description) values("척테일러", "shoes", 130000, "converse",20, "최신 신발");
+insert into productTable(name, category, price, manufacturer, unitInStock, description) values("독일군 스니커즈", "shoes", 300000, "메종 마르지엘라 ", 10, "고급 스니커즈");
+insert into productTable(name, category, price, manufacturer, unitInStock, description) values("QLED TV", "TV", 4000000, "삼성전자", 60, "최고급 QLED TV");
+insert into productTable(name, category, price, manufacturer, unitInStock, description) values("4K TV", "TV", 2000000, "LG전자", 80, "최신 4K TV");
