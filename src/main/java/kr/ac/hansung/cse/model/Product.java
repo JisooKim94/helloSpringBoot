@@ -32,22 +32,16 @@ public class Product implements Serializable {
 	@Column(name = "product_id")
 	private int id;
 	
-	@Column(name = "name")
 	private String name;
 	
-	@Column(name = "category")
 	private String category;
 	
-	@Column(name = "price")
 	private int price;
 	
-	@Column(name = "manufacturer")
 	private String manufacturer;
 	
-	@Column(name = "unitInStock")
 	private int unitInStock;
 	
-	@Column(name = "description")
 	private String description;
 	
 	public Product(String name, String category, int price, String manufacturer, int unitInStock, String description) {
